@@ -1,5 +1,5 @@
 ## About Me
-I'm a passionate software engineer and researcher with a strong focus on AI, NLP, and distributed systems. Currently, I'm conducting research on **AI-powered language proficiency assessment systems** at Northeastern University, integrating speech recognition and NLP to enhance automated evaluation. I have experience developing scalable applications, fine-tuning AI models, and optimizing cloud-based deployments.
+A strong focus on AI, NLP, and distributed systems. Currently, I'm conducting research on **AI-powered language proficiency assessment systems** at Northeastern University, integrating speech recognition and NLP to enhance automated evaluation. I have experience developing scalable applications, fine-tuning AI models, and optimizing cloud-based deployments.
 
 ### Programming Languages  
 <p align="left">
