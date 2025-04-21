@@ -1,3 +1,16 @@
+<!-- slogan -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Hi%20There!%20I'm%20Sixia%20Sun&fontSize=40&fontColor=ffffff" />
+</p>
+
+<!-- animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=AI+%7C+NLP+%7C+Distributed+Systems;LLM+Fine-tuning+%2B+Scalable+Infra;Flask+%2B+Kafka+%2B+DynamoDB+%2B+React" alt="Typing SVG" />
+</p>
+
+
+
+
 ## About Me
 A strong focus on AI, NLP, and distributed systems. Currently, I'm conducting research on **AI-powered language proficiency assessment systems** at Northeastern University, integrating speech recognition and NLP to enhance automated evaluation. I have experience developing scalable applications, fine-tuning AI models, and optimizing cloud-based deployments.
 
