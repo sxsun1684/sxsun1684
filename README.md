@@ -26,6 +26,6 @@ A strong focus on AI, NLP, and distributed systems. Currently, I'm conducting gr
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=22&duration=2500&pause=1000&color=4B4B4B&center=true&vCenter=true&width=500&lines=⭐+Feel+free+to+star+my+repos!;🤝+Let’s+connect+on+LinkedIn+or+GitHub!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=22&duration=2500&pause=1000&color=4B4B4B&center=true&vCenter=true&width=500&lines=⭐+Feel+free+to+star+my+repos!;🩷+Let’s+connect+on+LinkedIn+or+GitHub!" />
 </p>
 
