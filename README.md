@@ -19,10 +19,9 @@ A strong focus on AI, NLP, and distributed systems. Currently, I'm conducting gr
 ### Frameworks  
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  ![LangChain](https://img.shields.io/badge/LangChain-0052CC?style=for-the-badge&logo=ai&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)  ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI/CD-61DAFB?style=for-the-badge&logo=githubactions&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)    
 
-### GitHub Activity  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sxsun1684&show_icons=true&theme=github&hide_border=true&hide_title=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sxsun1684&theme=github&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxsun1684&layout=compact&theme=github&hide_border=true&hide_title=true" width="60%" />
 </p>
 
 <p align="center">
