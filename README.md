@@ -24,15 +24,11 @@ A strong focus on AI, NLP, and distributed systems. Currently, I'm conducting gr
 ### Frameworks  
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  ![LangChain](https://img.shields.io/badge/LangChain-0052CC?style=for-the-badge&logo=ai&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)  ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI/CD-61DAFB?style=for-the-badge&logo=githubactions&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)    
 
-<!-- GitHub Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sxsun1684&theme=github-compact" />
-</p>
-
-<!-- Programming Language Stats: Show up to 10 languages and force refresh -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxsun1684&layout=compact&theme=github&hide_border=true&hide_title=true&langs_count=10&cache_seconds=10" width="60%" />
-</p>
+<!-- 🧩 Side-by-Side: Activity Graph + Language Stats -->
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sxsun1684&theme=github-compact" width="500px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxsun1684&layout=compact&theme=github&hide_border=true&hide_title=true&langs_count=10&cache_seconds=10" width="320px" />
+</div>
 
 <!-- Closing Typing Banner -->
 <p align="center">
