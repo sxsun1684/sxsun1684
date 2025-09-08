@@ -9,13 +9,12 @@
 </p>
 
 ## About Me
-A strong focus on **Recommender Systems**, AI, and Distributed Systems. Currently, I am a graduate student at Northeastern University conducting research on personalized recommendation systems, integrating ML and NLP to improve automated evaluation and content ranking. I have hands-on experience developing large-scale recommendation pipelines, fine-tuning models for user-item interaction data, and optimizing real-time cloud-based deployments.
+A strong focus on **Recommender Systems** and seeking for related positions. Currently, I am a graduate student at Northeastern University interested in personalized recommendation systems, integrating ML and NLP to improve automated evaluation and content ranking. I have hands-on experience developing large-scale recommendation pipelines, fine-tuning models for user-item interaction data, and optimizing real-time cloud-based deployments.
 
 ### Programming Languages  
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
 </p>
