@@ -25,7 +25,6 @@ A strong focus on **Recommender Systems** and seeking for related positions. Cur
 <!-- 🧩 Side-by-Side: Activity Graph + Language Stats -->
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sxsun1684&theme=github-compact" width="500px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxsun1684&layout=compact&theme=github&hide_border=true&hide_title=true&langs_count=10&cache_seconds=10&hide=jupyter%20notebook,css,html" width="300px" />
 </div>
 
 <!-- Closing Typing Banner -->
